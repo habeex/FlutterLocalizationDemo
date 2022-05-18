@@ -1,4 +1,4 @@
-# testing
+# Flutter Localization Demo
 
 A new Flutter project.
 
